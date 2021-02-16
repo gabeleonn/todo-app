@@ -17,7 +17,7 @@ export const ThemeProvider: React.FC = ({ children }) => {
     if (theme) {
       return { ...JSON.parse(theme) };
     }
-    return { color: 'blue' };
+    return { color: '#999' };
   });
 
   const changeTheme = useCallback((theme: string): void => {
