@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Layout" src="/context-login.gif">
+  <img alt="Layout" src="/layout.png">
 </p>
 
 ## 💇🏻‍♂️ About the project
