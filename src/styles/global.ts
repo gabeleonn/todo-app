@@ -15,6 +15,8 @@ export default createGlobalStyle`
   body {
     background: #161616;
     color: #999;
+    width: 100vw;
+    overflow-x: hidden;
   }
 
   button {
@@ -26,6 +28,6 @@ export default createGlobalStyle`
     align-items: center;
     justify-content: center;
     width: 100vw;
-    height: 100vh;
+    padding: 50px 0;
   }
 `;

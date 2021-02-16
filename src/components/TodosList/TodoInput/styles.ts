@@ -25,8 +25,10 @@ export const Container = styled.div`
 
   input {
     background: transparent;
-    border: none;
     height: 100%;
+    width: 100%;
+
+    border: none;
     color: white;
     font-size: 16px;
   }
